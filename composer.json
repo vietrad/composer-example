@@ -1,10 +1,10 @@
 {
-    "name": "vietrad/hello-world",
+    "name": "vietrad/composer-demo",
     "description": "My first Composer project",
     "authors": [
         {
-            "name": "Vietrad",
-            "email": "vietrad@name.com"
+            "name": "vietrad",
+            "email": "dangtham@tamviettech.vn"
         }
     ],
     "minimum-stability": "dev",
